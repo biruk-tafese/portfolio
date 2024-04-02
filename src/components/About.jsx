@@ -11,19 +11,19 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
-            Tailwind CSS.
+            Hi, My Name Is Biruk Tafese everyone calls me Biruk. I am a
+            a Full Stack Developer. I build beautifull websites with React 
+            Tailwind CSS , Nodejs/Django and Mongodb.
           </p>
           <p className="pb-5">
             I am proficient in Frontend skills like React.js, Redux, Redux Tool
             Kit, Axios, Tailwind CSS, SaSS, Css3 and many more.
           </p>
 
-          <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p>
+          <p>In backend I know Django and  Node.js, Express.js, MongoDB, and Mongoose</p>
 
           <p>
-            In my spare time I create YouTube videos and write blogs on my Blog.
+            In my spare time I create Telegram Posts and also write blogs on my Blog.
             Where I talk about programming theory and build various projects.
           </p>
         </div>

@@ -8,31 +8,31 @@ const Projects = () => {
     const projects = [
         {
           img: devlog,
-          title: "devlog",
-          desc: " A multi author blog. Built with Node.js, MongoDB, React, Redux and Tailwind CSS ",
-          live: "https://devlogg.onrender.com/",
-          code: "https://github.com/Coderamrin/devlog",
+          title: "Employee Management ",
+          desc: " A multi employee management system. Built with Node.js, MongoDB, React, Redux and Tailwind CSS ",
+          live: "#",
+          code: "https://github.com/biruk-tafese/Employee_management_webApp",
         },
         {
           img: uilogs,
-          title: "uilogs",
-          desc: "Free website template directory for SaaS and Degital Agency. Built with Bootstrap, JQuery and JavaScript",
-          live: "https://uilogs.xyz/",
-          code: "https://github.com/Coderamrin/html-templates",
+          title: "E-learning Website",
+          desc: "Free website build for enhancing E-learning for EPHSA. Built with Bootstrap, JQuery and JavaScript",
+          live: "#",
+          code: "https://github.com/biruk-tafese/EHPSA-E-learning-website",
         },
         {
           img: cssProjects,
-          title: "css projects",
-          desc: "Frontend Mentor challange directory, solved with vanilla CSS",
-          live: "https://build-10-css-projects.netlify.app/",
-          code: "https://github.com/Coderamrin/build-10-css-projects",
+          title: "Sebil AI",
+          desc: "sebil AI is a crop recommendation system. it was build from AI model, Backend using Django and frontend using react and tailwindcss",
+          live: "#",
+          code: "https://github.com/biruk-tafese/SebilAi",
         },
         {
           img: getInspirred,
-          title: "get Inspirred",
-          desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
-          live: "https://get-inspirred.netlify.app/",
-          code: "https://github.com/Coderamrin/get-inspired",
+          title: "Solving Problems",
+          desc: "30 Days challenge for solving DSA problems",
+          live: "#",
+          code: "https://github.com/biruk-tafese/Competitive_programming",
         },
       ]; 
         
@@ -47,7 +47,7 @@ const Projects = () => {
 
           <p className="pb-5">
             These are some of my best projects. I have built these with React,
-            MERN and vanilla CSS. Check them out.
+            MERN and vanilla CSS and machine learning. Check them out.
           </p>
         </div>
 
